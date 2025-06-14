@@ -1,4 +1,4 @@
-# TechDorm 🏫🛏️
+# TechDorm 🏫🛏
 
 **TechDorm** is a Python-based student management system designed to manage and store the details of college students participating in internships and workshops. The application features a user-friendly GUI built with **Tkinter** and uses **MySQL** for efficient and reliable data storage and retrieval.
 
